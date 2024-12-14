@@ -1,5 +1,5 @@
 ## Hey 👋, I'm MrRobot
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IIIMrRobotIII&label=Profile%20views&color=0e75b6&style=flat" alt="mrrobot" /> </p>
 💻 **Full-Stack Developer | AI & Robotics Enthusiast | Tech Innovator**  
 Hi there! I’m a developer passionate about transforming the world with code. 🚀 My goal is to turn ideas into functional, creative, and impactful solutions that push boundaries and solve real-world problems!
 
