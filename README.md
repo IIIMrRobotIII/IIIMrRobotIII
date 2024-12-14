@@ -1,17 +1,100 @@
-<h1 align="center">Merhaba 👋, ben MrRobot</h1>
-<h3 align="center">Merhaba! Kodla dünyayı dönüştürmeye tutkulu bir geliştiriciyim. 🚀 Amacım, fikirleri sınırları zorlayan işlevsel, yaratıcı ve etkili çözümlere dönüştürmek!</h3>
+## Hey 👋, I'm MrRobot
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrobot&label=Profile%20views&color=0e75b6&style=flat" alt="mrrobot" /> </p>
+💻 **Full-Stack Developer | AI & Robotics Enthusiast | Tech Innovator**  
+Hi there! I’m a developer passionate about transforming the world with code. 🚀 My goal is to turn ideas into functional, creative, and impactful solutions that push boundaries and solve real-world problems!
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" yükseklik="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" genişlik="40" yükseklik="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src = "https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt = "dart" width = "40" height = "40"/> </a> <a href = "https://firebase.google.com/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" genişlik="40" yükseklik="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" genişlik="40" yükseklik="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/tr/urunler/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/tr-TR/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" genişlik="40" yükseklik="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" genişlik="40" yükseklik="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" genişlik="40" yükseklik="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" genişlik="40" yükseklik="40"/> </a> <a href="https://www.photoshop.com/tr" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" genişlik="40" yükseklik="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" genişlik="40" yükseklik="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenyum" genişlik="40" yükseklik="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" genişlik="40" yükseklik="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" genişlik="40" yükseklik="40"/> </a> </p>org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 🛠️ **Technical Skills**:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrrobot&show_icons=true&locale=tr&layout=compact"
+- **Languages**: C++, C#, Python, HTML, CSS, Dart  
+- **Frameworks & Tools**:  
+  - **Flutter** for mobile apps 📱, **React** & **Node.js** for web apps 🌐  
+  - **TensorFlow** & **PyTorch** for AI & machine learning 🤖  
+  - **Unity** for game development 🎮, **Django** for web backends  
+  - **Arduino IDE** & **Raspberry Pi** for IoT & robotics projects  
+  - **Firebase** & **PostgreSQL** for scalable databases  
+  - **Git**, **Docker**, **Jenkins** for version control, containers, and CI/CD  
+  - **GraphQL** & **REST APIs** for robust integrations
 
-alt="mrrobot" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrrobot&show_icons=true&locale=tr" alt="mrrobot" /></p>
+### **Project Expertise**:
+- **Web Development**: Building responsive, scalable websites 🌍  
+- **Mobile App Development**: Cross-platform apps with **Flutter** 📱  
+- **AI & Robotics**: Creating intelligent systems with **TensorFlow**, **PyTorch**, and **Arduino** 🤖  
+- **Cloud Solutions & Microservices** ☁️  
+- **Game Development**: Immersive games with **Unity** 🎮  
+- **Automation & Machine Learning**: Smarter apps that learn and evolve 🧠  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrrobot&" alt="mrrobot" /></p>
+---
+
+### 🌟 **Project Goals**:
+- **Build high-performance, beautiful apps** using **Flutter** & **Dart**  
+- **Develop cutting-edge AI & robotics solutions** to shape the future of technology  
+- Contribute to **open-source** projects that empower developers worldwide  
+- **Design scalable, cloud-powered applications** using **IoT** and **serverless computing**
+
+---
+
+### 🚀 **Interests & Hobbies**:
+- **Building**: Passionate about transforming ideas into practical, hands-on projects.  
+- **Robotics & Electronics**: Enthusiast of building robots and working with **Arduino** and **Raspberry Pi**.  
+- **Mechanical Design**: Enjoy creating mechanical systems and exploring how hardware and software work together.  
+- **Tech Exploration**: Always exploring new tools, technologies, and ways to improve my projects.  
+- **Learning**: Constantly seeking to learn more about the world of **IoT**, **automation**, and **smart systems**.  
+
+
+---
+
+### 🌐 **My Mission**:  
+To constantly evolve as a developer, embrace emerging technologies, and make a tangible impact through code. I believe in creating solutions that **matter**, whether it's a mobile app, an AI model, or a game. With coffee in hand and code on the screen, let’s make something amazing! ☕💻
+
+---
+
+### 💬 **Let’s Connect!**  
+Interested in a project collaboration? Got a question about a tech stack? Or just want to talk about the future of AI? I’m always open to new conversations! 👋
+
+---
+
+<img align="right" alt="GIF" src="https://github.com/IIIMrRobotIII/IIIMrRobotIII/blob/main/techstack.gif" width="360px"/>
+
+---
+
+### 🧐 **More About Me**:
+- 🔭 **Currently working on**: Developing **browser-based games** and **AI applications**  
+- 🌱 **Learning**: Exploring **WebAssembly** & **serverless architectures**  
+- 💬 **Ask me about**: **Tech in gaming**, **AI frameworks**, **IoT** projects, or anything in between!
+
+---
+
+### 🔨 **Languages and Tools**:  
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="42px"/> </a>  
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>  
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"> </a>  
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></a>  
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>  
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="firebase" height ="42px"/> </a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> </a>  
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>  
+<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="left" alt="git" height='42px'/> </a>  
+
+---
+
+### 📊 **Github Stats**:
+
+#### Top Languages:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IIIMrRobotIII&show_icons=true&locale=en&layout=compact&theme=dark" alt="mrrobot" /></p>
+
+#### My GitHub Activity:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IIIMrRobotIII&show_icons=true&locale=en&theme=dark" alt="mrrobot" /></p>
+
+#### GitHub Streak:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IIIMrRobotIII&theme=dark" alt="mrrobot" /></p>
+
+---
+
+### 🛠️ **My Projects**:
+
+✨ **Coming Soon!** 🚀
+
+I'm currently working on some exciting projects that will be released soon! Stay tuned for cutting-edge apps, AI-powered solutions, and innovative robotics. I'm constantly exploring new ideas and technologies, and I can't wait to share them with you. Stay connected, the best is yet to come! 💡
+
